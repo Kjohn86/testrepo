@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 # Preprocessing allows us to standarsize our data
 from sklearn import preprocessing
-# Allows us to split our data into training and testing data
+# Allows us to split our data into training and testing data#
 from sklearn.model_selection import train_test_split
 # Allows us to test parameters of classification algorithms and find the best one
 from sklearn.model_selection import GridSearchCV
